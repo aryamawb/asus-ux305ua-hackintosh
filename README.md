@@ -6,7 +6,7 @@ This is an EFI Folder of Asus ZenBook UX305UA Running macOS Catalina Build (19H2
 not prepped really well, but i'm pretty fine with it cause i have like 0 issues for daily use.
 
 ## Detail of Specification:
-||
+|-|-|
 |-|-|
 |Processor|Intel Core i5-6200U|
 |IGPU|Intel HD Graphics 520|
