@@ -70,10 +70,9 @@ reboot
 ```
 
 
-## Important NOTE! WARNING
+## IMPORTANT NOTE
 
-DO NOT EVER USE DIRECTLY MY ACPI FOLDER TO YOUR MACHINE EVEN WE ARE HAVE THE SAME EXACT DEVICE. JUST DON'T. 
-WE MIGHT HAVE A DIFFERENT ACPI TABLES STRUCTURE AND IT WILL GONNA MESSED UP IF YOU USE MY ACPI.
+I create this github repository is for my own documentation, for my own device. I do not take responsibilities if there's any issues you've gotten while you're trying to use my OpenCore setup. Once again, </b>I DO NOT TAKE ANY RESPONSIBILITIES HAPPEN TO YOUR MACHINE IF THERE'S SOMETHING WRONG HAPPEN WITH YOUR DEVICE USING MY CONFIG!</b>
 
 ---
 
