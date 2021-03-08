@@ -75,6 +75,8 @@ reboot
 DO NOT EVER USE DIRECTLY MY ACPI FOLDER TO YOUR MACHINE EVEN WE ARE HAVE THE SAME EXACT DEVICE. JUST DON'T. 
 WE MIGHT HAVE A DIFFERENT ACPI TABLES STRUCTURE AND IT WILL GONNA MESSED UP IF YOU USE MY ACPI.
 
+---
+
 Thanks to all of the developers who are providing the best work for the kext:
 
 - thanks to https://github.com/acidanthera for providing OpenCore and other really usefull kext
